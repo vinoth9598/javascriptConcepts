@@ -1,5 +1,5 @@
-conditional statements
-if 
-if - else 
-if - elseif - else
-switch statements
+javascript concepts 
+
+var, let , const 
+Datatypes 
+Type conversion
