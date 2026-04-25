@@ -1,4 +1,9 @@
-javascript concepts 
+//loops 
 
-var, let , const 
-Datatypes 
+for 
+for of 
+for in 
+forEach 
+while loop 
+do while loop 
+
